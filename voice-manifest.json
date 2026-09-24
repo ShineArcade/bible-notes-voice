@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "supertonic3-int8",
+      "version": 1,
+      "url": "https://github.com/ShineArcade/bible-notes-voice/releases/download/supertonic3-v1/supertonic3-int8-v1.zip",
+      "sizeBytes": 95178255,
+      "sha256": "8eba78400cbd82e20e129d49280999070f61c393dbc6f835ab9bc045b1694edb",
+      "unpackedBytes": 111729199,
+      "languages": ["en"],
+      "license": "OpenRAIL-M"
+    },
+    {
+      "id": "kokoro-es-w16-v1",
+      "version": 1,
+      "url": "https://github.com/ShineArcade/bible-notes-voice/releases/download/kokoro-es-v1/kokoro-es-w16-v1.zip",
+      "sizeBytes": 151446928,
+      "sha256": "42221e865c61b62af8d20d8746821883bd8522a3986c0cd18d999a8e115bb21a",
+      "unpackedBytes": 164566192,
+      "languages": ["es"],
+      "license": "Apache-2.0"
+    }
+  ]
+}

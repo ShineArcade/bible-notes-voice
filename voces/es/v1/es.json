@@ -1,0 +1,256 @@
+{
+ "version": 1,
+ "language": "es",
+ "films": {
+  "origenes-gen-bsb-1-1": {
+   "bytes": 727148,
+   "sha256": "04849b3f92d35b46aff86641d6e913d15bb2f75fe701c931aeb9aa135842d476",
+   "seconds": 204.6
+  },
+  "origenes-gen-bsb-2-4": {
+   "bytes": 618662,
+   "sha256": "03eb9ea2c9f5b79d4893e550cf81f2c31fdd34c32f95577102a13747b67c89cc",
+   "seconds": 178.3
+  },
+  "origenes-gen-bsb-3-8": {
+   "bytes": 571151,
+   "sha256": "d70bac7b32e26931151af7c858c8bd8c5024fdfe8b5ca72de47a1ad1e5a2c4af",
+   "seconds": 153.8
+  },
+  "origenes-gen-bsb-4-1": {
+   "bytes": 507713,
+   "sha256": "0d4a4e84c9dd88660ee590859b04014978ca02aac75236bce631d90c2e89f6c1",
+   "seconds": 135.8
+  },
+  "genesis-mas-gen-bsb-4-17": {
+   "bytes": 372259,
+   "sha256": "317c1a3f905d49076ab1b60c7dbe8080b212826a3214d58502a2743f963a114c",
+   "seconds": 106.4
+  },
+  "genesis-mas-gen-bsb-5-18": {
+   "bytes": 436571,
+   "sha256": "ead26398314564e282e70b81802aae373d235d782b5abff48e4c7a080dcce2e7",
+   "seconds": 128.2
+  },
+  "origenes-gen-bsb-6-1": {
+   "bytes": 730202,
+   "sha256": "e4be5f1d95403dfaadd5c7dbe79ddf1718db8571816270a3593bf3feec314dfa",
+   "seconds": 209.8
+  },
+  "origenes-gen-bsb-8-1": {
+   "bytes": 699155,
+   "sha256": "2a266ff129f79683dc965b741ddfd6c42098e78aa3eaad8a02999303176c5261",
+   "seconds": 202.0
+  },
+  "genesis-mas-gen-bsb-9-18": {
+   "bytes": 324193,
+   "sha256": "6257c6dedf48239e83d8abed643f65a4617f91e7ef2efbbd9efca61684cf7a71",
+   "seconds": 89.5
+  },
+  "origenes-gen-bsb-11-1": {
+   "bytes": 294778,
+   "sha256": "66d57d80bcab8aab9574a9b3232ec9feeb73b3271b741dd227df57d30150ae10",
+   "seconds": 82.3
+  },
+  "abraham-gen-bsb-11-27": {
+   "bytes": 567368,
+   "sha256": "80084c3a9d0bf354ec9c286df9a32085534057ecf44948c93f0adeac50b82b57",
+   "seconds": 166.2
+  },
+  "genesis-mas-gen-bsb-12-10": {
+   "bytes": 394949,
+   "sha256": "200b01b7a475cba845c69ca66e863f47521ef28aa23ec7d13c0911065d03bcf2",
+   "seconds": 113.7
+  },
+  "abraham-gen-bsb-13-1": {
+   "bytes": 561544,
+   "sha256": "85336761034d98b4cc00e7fc3f616e31ded50b64513f4511d26e6444b26a2ee8",
+   "seconds": 163.8
+  },
+  "abraham-gen-bsb-14-1": {
+   "bytes": 763500,
+   "sha256": "e8fc6c7535d9a5d90944ba32496d93a7bb2543ac368f7c6e78908dece971bedf",
+   "seconds": 225.5
+  },
+  "genesis-mas-gen-bsb-15-1": {
+   "bytes": 702992,
+   "sha256": "dcc0c3efdcdbcede846b5d23423e0fa17fe342b6254d0959215cfd100d5bc1cd",
+   "seconds": 200.5
+  },
+  "genesis-mas-gen-bsb-16-1": {
+   "bytes": 569998,
+   "sha256": "a00801656212e3c74215fc86653689579ac4edeca115045e3d55a214e4d4bb44",
+   "seconds": 151.9
+  },
+  "genesis-mas-gen-bsb-17-1": {
+   "bytes": 739905,
+   "sha256": "48725d200ea69c24e9ca7b32ff7333414ef699de9d58ad6a246c5e7c6226967e",
+   "seconds": 209.8
+  },
+  "abraham-gen-bsb-18-1": {
+   "bytes": 500562,
+   "sha256": "cf0381df28250580963a858d63f9464ce54dae180cf75d6d94e875504d51d294",
+   "seconds": 137.0
+  },
+  "abraham-gen-bsb-18-16": {
+   "bytes": 880601,
+   "sha256": "04bb16f90391d63ccfc2f59aa0641ff382a84b14ccb1737b3b9811022657eeac",
+   "seconds": 257.9
+  },
+  "genesis-mas-gen-bsb-19-30": {
+   "bytes": 309413,
+   "sha256": "2fa2ef0e619cb77f86e8c69d13ab4232cd3a9fc7a43f5f30200fc4bcb8dffa2f",
+   "seconds": 91.9
+  },
+  "genesis-mas-gen-bsb-20-1": {
+   "bytes": 560209,
+   "sha256": "35c5fc42b9ecfd8c42929f19506861e98971be3bba055a3a54e6e0d6f4b5615c",
+   "seconds": 158.9
+  },
+  "abraham-gen-bsb-21-1": {
+   "bytes": 858305,
+   "sha256": "092d5ee7c5355a1a4e5aad72369a06eabcf85baba91897fdd0b93909da588c3d",
+   "seconds": 253.5
+  },
+  "abraham-gen-bsb-22-1": {
+   "bytes": 698466,
+   "sha256": "f79588745846be3be875279357bf0dfa86d5a60c5616c4dd7e4918fc84ef7a7d",
+   "seconds": 194.6
+  },
+  "genesis-mas-gen-bsb-23-1": {
+   "bytes": 586675,
+   "sha256": "b6ff54c1ff1de8fa472a9569534d963e15b2454e715af31523c15dc789337ea4",
+   "seconds": 174.8
+  },
+  "abraham-gen-bsb-24-1": {
+   "bytes": 878831,
+   "sha256": "3d992e21bda514bdbe94dcd9a62e663ac3f6c356db1e25c1ce15251af1914313",
+   "seconds": 260.0
+  },
+  "genesis-mas-gen-bsb-25-1": {
+   "bytes": 390121,
+   "sha256": "af08a2b6f70ad6e1bd3952224d0b61877113b61066386bd896aa037566fecb3a",
+   "seconds": 115.2
+  },
+  "jacob-gen-bsb-25-19": {
+   "bytes": 494374,
+   "sha256": "71972ec456c799fa944390167fb992936c52e492e0a6c1d658d1b06b49cbdcfe",
+   "seconds": 128.8
+  },
+  "genesis-mas-gen-bsb-26-1": {
+   "bytes": 458734,
+   "sha256": "ba1460f74417404171bdf8657e8793cafea672b0dea99e34dcb883ed38f6a671",
+   "seconds": 127.3
+  },
+  "genesis-mas-gen-bsb-26-12": {
+   "bytes": 665919,
+   "sha256": "eb24a088da3de6c266a4f5efe1bc2d5f34a28814b9b8bbece2f5fb5c53755de6",
+   "seconds": 185.6
+  },
+  "jacob-gen-bsb-27-1": {
+   "bytes": 827019,
+   "sha256": "580f2d016afbcfb22fa4e1b347763301a8ef29bf9fc9ffe86c10cb1a93c4cf92",
+   "seconds": 233.6
+  },
+  "jacob-gen-bsb-28-10": {
+   "bytes": 593900,
+   "sha256": "f0011c958ee7646dceda5fefe984338b7a2cf836a947ed2db3c6e89dc3975f55",
+   "seconds": 169.6
+  },
+  "jacob-gen-bsb-29-1": {
+   "bytes": 793033,
+   "sha256": "ff17f190735c4aa3b12ba83e0fcfd874731a5634edf95e53fd2e140c910a9e00",
+   "seconds": 223.7
+  },
+  "genesis-mas-gen-bsb-30-1": {
+   "bytes": 686812,
+   "sha256": "3268e2f15811ba1c257989f7e249b021a756df63c43c6b0c3ee8b28caee8befe",
+   "seconds": 185.8
+  },
+  "genesis-mas-gen-bsb-30-25": {
+   "bytes": 507939,
+   "sha256": "55ef0458b1cff556cc642058fa69fb4d53463814b604fcbe2964cac5708812f6",
+   "seconds": 136.1
+  },
+  "jacob-gen-bsb-31-1": {
+   "bytes": 826734,
+   "sha256": "0e11e165e87c52551f3615030df8ac17353f1c88d0b1425866038a6e01cd1349",
+   "seconds": 237.8
+  },
+  "jacob-gen-bsb-32-22": {
+   "bytes": 925394,
+   "sha256": "cd4c58f2135a6b4f567865a8b5e324f35a3594ec741d5a539cc67aabc9f64365",
+   "seconds": 260.3
+  },
+  "genesis-mas-gen-bsb-33-18": {
+   "bytes": 733814,
+   "sha256": "3816b7675076e99ac31352dabdc2b1446de8b00bb6273e988915ac2314377726",
+   "seconds": 208.9
+  },
+  "genesis-mas-gen-bsb-35-1": {
+   "bytes": 735641,
+   "sha256": "b96fa54b355c8684d0734145cb123725402d40484c65321d29508eb692fe9ab0",
+   "seconds": 210.1
+  },
+  "jose-gen-bsb-37-1": {
+   "bytes": 683109,
+   "sha256": "ef72c97916e0ba4e40dceb3e938ee3bcbdbf6c4f589824e2f706f37e0d7b1df2",
+   "seconds": 187.4
+  },
+  "genesis-mas-gen-bsb-38-1": {
+   "bytes": 748689,
+   "sha256": "fb57e2c3e6070848a1c6c2ea2d003ff31cfc3baf519097e3bdde5b2d8130ee68",
+   "seconds": 212.8
+  },
+  "jose-gen-bsb-39-1": {
+   "bytes": 480845,
+   "sha256": "d2280eada899f569ca4680d853938fa0928f1723e7bb10c41f7f61db26a4f685",
+   "seconds": 135.1
+  },
+  "jose-gen-bsb-40-1": {
+   "bytes": 531919,
+   "sha256": "36b7a1de298c82c73926fc4fb2f2164fabb398524ecae042214a56f362761fdb",
+   "seconds": 146.8
+  },
+  "jose-gen-bsb-41-1": {
+   "bytes": 585445,
+   "sha256": "b4f814113f3f2bb42635832fe9854c401dc67ae8d82dba45692abc9d067fc282",
+   "seconds": 159.6
+  },
+  "jose-gen-bsb-42-1": {
+   "bytes": 630747,
+   "sha256": "baf9c4f1c33507e55ca043a2e6cd116f64477066f783725f61b58daa2708e9ad",
+   "seconds": 170.5
+  },
+  "jose-gen-bsb-43-1": {
+   "bytes": 560951,
+   "sha256": "cfe10afca460c5c4bc86afdd1466dbc015095810a48550b85429cfb5e1693856",
+   "seconds": 154.7
+  },
+  "jose-gen-bsb-45-1": {
+   "bytes": 676151,
+   "sha256": "edf475f0f743fc8d000bb9b4bb44209e962ebda2ee0e4c02139e7ea3b64f1e23",
+   "seconds": 181.2
+  },
+  "genesis-mas-gen-bsb-46-1": {
+   "bytes": 712079,
+   "sha256": "963b7cb13adfc4d1c982221312071a13aa184d3bf24992b8291129c963c1e1d7",
+   "seconds": 192.7
+  },
+  "genesis-mas-gen-bsb-47-13": {
+   "bytes": 535588,
+   "sha256": "3fe12e5f315b4edd08798435504d41122fc94dc525ea22f20f7ed30e47e36396",
+   "seconds": 151.7
+  },
+  "genesis-mas-gen-bsb-47-27": {
+   "bytes": 765660,
+   "sha256": "0749f6216a103f80d5e751a6531d84d58a3235bcad8fd571e9a798e955f13f29",
+   "seconds": 213.1
+  },
+  "jose-gen-bsb-50-15": {
+   "bytes": 555426,
+   "sha256": "c89e96f208b76b247f25a6d2326f784c991f1935ffe3497e34eb139d5cbaf4d7",
+   "seconds": 154.5
+  }
+ }
+}

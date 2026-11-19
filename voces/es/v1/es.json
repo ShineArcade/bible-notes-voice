@@ -251,6 +251,141 @@
    "bytes": 555426,
    "sha256": "c89e96f208b76b247f25a6d2326f784c991f1935ffe3497e34eb139d5cbaf4d7",
    "seconds": 154.5
+  },
+  "moises-exo-bsb-1-8": {
+   "bytes": 585454,
+   "sha256": "73260c641c8d1725271deb2aeabf004eab035f5a375ec5d21e895a41c749a869",
+   "seconds": 162.8
+  },
+  "moises-exo-bsb-2-11": {
+   "bytes": 516211,
+   "sha256": "c2fbb495e771374f0ea108ff27fe456d38590f244f3ef9691e452e39df0d57d9",
+   "seconds": 145.9
+  },
+  "moises-exo-bsb-3-1": {
+   "bytes": 600270,
+   "sha256": "fef157d3c179e7c5ca642a5b5867a08b27a66240d362983d0dc1320f7d945794",
+   "seconds": 168.4
+  },
+  "moises-exo-bsb-4-1": {
+   "bytes": 680520,
+   "sha256": "1be39f4fbc6ba369f7b6e2d4d455a6cf0f1b4efbed7d522fbea7002f68d37300",
+   "seconds": 188.4
+  },
+  "desierto-exo-bsb-4-18": {
+   "bytes": 418144,
+   "sha256": "ce12dc5635404d29884d559c88a91438f16127ce2d1751f61f4560cc655eb255",
+   "seconds": 116.5
+  },
+  "moises-exo-bsb-5-1": {
+   "bytes": 558406,
+   "sha256": "782b56615fb60867ac572b59221fac06bf330745dda8cac327f88c00f74181e2",
+   "seconds": 163.7
+  },
+  "desierto-exo-bsb-5-15": {
+   "bytes": 603420,
+   "sha256": "a3210dd680dc018a4dbc82056e589f95f31dfae66961ca680aa8628f1e70e93d",
+   "seconds": 176.1
+  },
+  "moises-exo-bsb-7-8": {
+   "bytes": 591466,
+   "sha256": "2b8730fbf6a8ce6a619ba3e51cf520573b91ed0e8813af38b21d21c0245f99ce",
+   "seconds": 174.6
+  },
+  "moises-exo-bsb-8-1": {
+   "bytes": 659241,
+   "sha256": "6ea584c684adf2adf8e6eeb511d7743a65519f8f0a83d9eae0392653b1cc9a60",
+   "seconds": 190.3
+  },
+  "moises-exo-bsb-9-1": {
+   "bytes": 608253,
+   "sha256": "a3ddc43b7ebec1233d6e225bff18a3822c7dcfc7cd5dd3a7d27d9566a7a34360",
+   "seconds": 176.8
+  },
+  "moises-exo-bsb-10-1": {
+   "bytes": 638145,
+   "sha256": "dd6b227e2d562209170f7048ecb8f81e36de8375860fe98f4b4806c7e9145d6a",
+   "seconds": 186.3
+  },
+  "moises-exo-bsb-11-1": {
+   "bytes": 559344,
+   "sha256": "50a2e83eced440695adb242b040d8b020a2a0b8ac2bd5c45cfe741a9e2beda00",
+   "seconds": 161.8
+  },
+  "moises-exo-bsb-12-29": {
+   "bytes": 466851,
+   "sha256": "f943e60efb673ec35b7c540a9dc3e1d25ed1f4003668fb3a7b2b4e1172284dd9",
+   "seconds": 141.6
+  },
+  "moises-exo-bsb-13-17": {
+   "bytes": 551786,
+   "sha256": "17052ae6f8c3fbae8199adc3206ad4e3e284aa36be9c723b29149f3cb91372a1",
+   "seconds": 155.2
+  },
+  "moises-exo-bsb-14-15": {
+   "bytes": 588259,
+   "sha256": "5efc5881469cc40527b1caf842946095894f1559f3771054fb49c879311a47ff",
+   "seconds": 174.2
+  },
+  "moises-exo-bsb-15-22": {
+   "bytes": 599817,
+   "sha256": "a3419b05bfe28dd959af603dea0b5cfe1df396341d97d1b3626866cc8a83c42c",
+   "seconds": 172.2
+  },
+  "desierto-exo-bsb-16-22": {
+   "bytes": 518862,
+   "sha256": "0acf055e668605b56f9d22111d6e1e0371100b1d31659b9e9cb9cc69bfcd07ca",
+   "seconds": 151.1
+  },
+  "moises-exo-bsb-17-1": {
+   "bytes": 625925,
+   "sha256": "09144b71a940571c374017db18101a3dc29b0318877fb71d95716d20f99394c8",
+   "seconds": 175.9
+  },
+  "desierto-exo-bsb-18-1": {
+   "bytes": 691387,
+   "sha256": "7bb708ca6a7650174c5098e38ce3cf65640eef6cac220d70536c8d1216537f71",
+   "seconds": 207.2
+  },
+  "moises-exo-bsb-19-1": {
+   "bytes": 636940,
+   "sha256": "359d9f787ac2453296ec0ea753dc450120c20aa89c1f9adf895845c13db839c1",
+   "seconds": 177.0
+  },
+  "desierto-exo-bsb-24-1": {
+   "bytes": 451329,
+   "sha256": "e2b9d4757944ed9c1f1a0f5efe03165504e1bea1f2290f47b61b9070fe405fce",
+   "seconds": 131.9
+  },
+  "moises-exo-bsb-32-1": {
+   "bytes": 633204,
+   "sha256": "bb1852e1dc825244fe7f1c87c051274035fa418c660ba608dea9293d4c94bf8b",
+   "seconds": 183.9
+  },
+  "desierto-exo-bsb-33-1": {
+   "bytes": 446998,
+   "sha256": "e0062db0e34144c67fac5ab433077af148c779251ab8807ad355824a4fc73b0f",
+   "seconds": 130.6
+  },
+  "desierto-exo-bsb-33-12": {
+   "bytes": 358784,
+   "sha256": "026d94144637d4e2c54688a046b76200e12c0a7fe365ff26d7f7e2614deb97ef",
+   "seconds": 96.0
+  },
+  "moises-exo-bsb-34-1": {
+   "bytes": 563740,
+   "sha256": "7b4f5027fa9902dcb34379d576ab1afd7f5c2a8de78696fd3126fcd0cb260620",
+   "seconds": 167.3
+  },
+  "desierto-exo-bsb-35-20": {
+   "bytes": 577468,
+   "sha256": "e12c0b3fbfccf7cd8de7f21a43b3d6e2ae106dc9a2140bf82c82fceb9e70b80a",
+   "seconds": 178.1
+  },
+  "desierto-exo-bsb-39-32": {
+   "bytes": 742005,
+   "sha256": "f3c1c52c22601a24e88e8c046ef1fcbcdf3e9f9d09aca91207fee8fa0df28c79",
+   "seconds": 221.4
   }
  }
 }

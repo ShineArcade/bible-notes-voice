@@ -1,0 +1,109 @@
+{
+ "id": "leida-es-RV1909-2026-GEN-v1",
+ "files": {
+  "GEN.1.json": {
+   "sha256": "fbb60e09b3d0dea38b6c4f4a587e8062fe9c85d115d2e5ba28c16678aa4f0cc9",
+   "size": 6124
+  },
+  "GEN.1.m4a": {
+   "sha256": "4dadba80ec248f4ed2c2a301b0e3786f77a03e896a87f513b2713bf0bdda3388",
+   "size": 1169199
+  },
+  "GEN.2.json": {
+   "sha256": "dc8578ea64939dfae07d7f963476ee5113832d432b2f10fa1c41af4e7c1b560a",
+   "size": 4732
+  },
+  "GEN.2.m4a": {
+   "sha256": "ac176ef5e838393d4b6d4d0c4a39057400a4cb512076b0fbac59f4226015651d",
+   "size": 887115
+  },
+  "GEN.3.json": {
+   "sha256": "33d4b177368a5f92115aed13fa9a3072df4258f7f199561e85181b2b95b08c5e",
+   "size": 4968
+  },
+  "GEN.3.m4a": {
+   "sha256": "2d3cdbef1cca50482cdd4e23fafcf56e071fd34d8520032cc07d47b8a56bb11a",
+   "size": 959402
+  },
+  "GEN.4.json": {
+   "sha256": "42d2a23ca820012bf7dd39fa13891b2600b5f99d2124a3f9998d85dc91cbe675",
+   "size": 4988
+  },
+  "GEN.4.m4a": {
+   "sha256": "cca040420ce0efe20be45c53c6ff4ce8bb91b88ebb8780f00a28a5be84d0508b",
+   "size": 957532
+  },
+  "GEN.5.json": {
+   "sha256": "2c8f807fc03691dfeb1286b3538def2095da76feb730d13a2a9145c216c29c72",
+   "size": 5100
+  },
+  "GEN.5.m4a": {
+   "sha256": "d0fd5bd509a0f0b50d03584f428823a59d8a4c5e6d5f9c9d2f3e04364e63deee",
+   "size": 845827
+  },
+  "GEN.6.json": {
+   "sha256": "06d198df44b4031f45506d21c1ee8535b122198dcf42bbabf1a55dcaf429b47c",
+   "size": 4497
+  },
+  "GEN.6.m4a": {
+   "sha256": "3f2a95199e5beb97a1aaf49cfd43c98d0dec96d508a3d2155b9a3b4008ca0083",
+   "size": 864516
+  },
+  "GEN.7.json": {
+   "sha256": "5a07b56537d7fc8639d453a1a56aceec67dfedae559b9e17cb3a099664c42345",
+   "size": 4769
+  },
+  "GEN.7.m4a": {
+   "sha256": "47ad90af409415cc4e2e325f98237f2eca476d5d0fc814da2115e81ec8d216f3",
+   "size": 906947
+  },
+  "GEN.8.json": {
+   "sha256": "8ae23a03605ef8e117a1a5cfaa720d49f52a12b9b804651d56ff2fb2e6f2a2e4",
+   "size": 4539
+  },
+  "GEN.8.m4a": {
+   "sha256": "d41bca8dde3d8c7b5f516fb9be3f3efeb1193e0d68ab63b5b4ef0d5298722c0f",
+   "size": 885959
+  },
+  "GEN.26.json": {
+   "sha256": "3ea82951103f24934a691d868e3c205338c9488bddf76bbd31ef0835f52c9c45",
+   "size": 6929
+  },
+  "GEN.26.m4a": {
+   "sha256": "ba8d30ca719b3ff47825b84417b6a9e11ce148479037262a84a5b6fd5d4afcc1",
+   "size": 1384238
+  },
+  "GEN.27.json": {
+   "sha256": "6f21d67d756dba6246e8dc85b82a1cfa4be7d2a1f2b7992274084fc88483df56",
+   "size": 9141
+  },
+  "GEN.27.m4a": {
+   "sha256": "6c11b46ff217bd46c56c2e3a2aa7fa757db3910a84fa81a267272c88a71adb4f",
+   "size": 1902021
+  },
+  "GEN.28.json": {
+   "sha256": "3a72a0d962bab2a5f585f4fa9d5aa6d6bf906d08063540cea2b6ceac92ff1ff4",
+   "size": 4482
+  },
+  "GEN.28.m4a": {
+   "sha256": "48440ebb78ba83165feca7a92157bf9154dc443707c8452639d64e4f977ddf86",
+   "size": 910920
+  },
+  "GEN.29.json": {
+   "sha256": "051efdabc56d933db77a899a08c8ab5ca886e16a7daa35fd0a094e92784d134a",
+   "size": 6569
+  },
+  "GEN.29.m4a": {
+   "sha256": "b3c402e0f335e4b318d39401792b68fb6c698621ad0e5067f19295d1e41af46b",
+   "size": 1272231
+  },
+  "GEN.30.json": {
+   "sha256": "43a816f631f47365d16b98517d97c304abb59d1a6e8744dadee2326e378432d1",
+   "size": 8094
+  },
+  "GEN.30.m4a": {
+   "sha256": "031228c93ae82e4030cafb9ec10e170d8801dfb6e15980f77597039a98a657d7",
+   "size": 1573101
+  }
+ }
+}

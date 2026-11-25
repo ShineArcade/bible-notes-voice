@@ -1,0 +1,197 @@
+{
+ "id": "leida-es-RV1909-2026-LUK-v1",
+ "files": {
+  "LUK.1.json": {
+   "sha256": "311c90f798eeaaa8fd1d6b29419b76fdb83fddd8b164828c129a7e83db716ff9",
+   "size": 32168
+  },
+  "LUK.1.caf": {
+   "sha256": "ea20fcf70ba125bf9c72ec02de47620778d9316e8e4311494cf9496b1849741e",
+   "size": 2091382
+  },
+  "LUK.2.json": {
+   "sha256": "5dfae3ec5090f05f529e99125bed6f7f8a5dee836b06775999c8cc7079cdb978",
+   "size": 22949
+  },
+  "LUK.2.caf": {
+   "sha256": "0019772d41ae1021edcc6e8afcee4417ca4bb8c5ee7088dcedb830b9b1a12fc6",
+   "size": 1561787
+  },
+  "LUK.3.json": {
+   "sha256": "4ec7b5899ebcb086c6cc297bbad1cae65114fd8ad51c0a27e63350500514a359",
+   "size": 18246
+  },
+  "LUK.3.caf": {
+   "sha256": "aa4d09c7ee8b2cf1dac80ac293d13cceb3a95f5fd9d9a994291c3d7a4c740e78",
+   "size": 1289240
+  },
+  "LUK.4.json": {
+   "sha256": "d21ce1a8d5b5e31f5ff60f7c16a906c4a247810b4f8010672de831ba6e4a961d",
+   "size": 20385
+  },
+  "LUK.4.caf": {
+   "sha256": "24ac20f4f21fc648fd34670ab794b1716ff91d2cbae8e65ef7ee217da0945208",
+   "size": 1431160
+  },
+  "LUK.5.json": {
+   "sha256": "b8991030fe8fa4555547b406bacd1d1e055bf787129185664cb6113599157097",
+   "size": 19137
+  },
+  "LUK.5.caf": {
+   "sha256": "aeea0aaab29ecb543a2ddab9852862c8cf206837afe738370b06397f018235fd",
+   "size": 1395721
+  },
+  "LUK.6.json": {
+   "sha256": "694265be6c50f9a985f90db650b5a9a7552c3d134d9c719d82fda5728adbc29a",
+   "size": 24449
+  },
+  "LUK.6.caf": {
+   "sha256": "3274fff20edccdf19a02ac727972d1f360204a6d34ea0857006f22544be08844",
+   "size": 1764800
+  },
+  "LUK.7.json": {
+   "sha256": "5f088bda16ae0fd87250678a5e4cd8fc2cfdd0e85f8c07e0bb49db1291756e4b",
+   "size": 24675
+  },
+  "LUK.7.caf": {
+   "sha256": "2b6b06fca4f1a2d42027dd2aedfa72e582b625e87f98a363a5457aff973c90d2",
+   "size": 1728852
+  },
+  "LUK.8.json": {
+   "sha256": "eed2269bbc5ed559b19aff6f0bac9d1699aedccb92f2f8b71b0e97552d08c417",
+   "size": 28990
+  },
+  "LUK.8.caf": {
+   "sha256": "1bc8fb5a1ee133573788b38911fcd5b491375864caa212014b0a273f41d4a215",
+   "size": 2075155
+  },
+  "LUK.9.json": {
+   "sha256": "11a8597d6a3891e6d630f88243962c2e8448e9a793ce1129d078deb62403dd01",
+   "size": 30561
+  },
+  "LUK.9.caf": {
+   "sha256": "5fb3dc4f949e6e6a3152962cc8dd4eea790186ce0ca4feb438e122132b11883a",
+   "size": 2193855
+  },
+  "LUK.10.json": {
+   "sha256": "616b767077ae9bc96d79143765ad85ef784ffc402a97b8a302993589d14917f1",
+   "size": 20277
+  },
+  "LUK.10.caf": {
+   "sha256": "8e699a891159acc99253e84473a4531483d0c40a93599fd227ecee39efe6c855",
+   "size": 1465892
+  },
+  "LUK.11.json": {
+   "sha256": "f11cbf8796649457f72ecb6aebca4f01cb4cf57a7cbc48e38b6f9a9671d4d3ac",
+   "size": 26928
+  },
+  "LUK.11.caf": {
+   "sha256": "96c57758d681d670fa5d49fb9f587d2cf24138e98779a78fe89802c4c4d2ea5b",
+   "size": 1958882
+  },
+  "LUK.12.json": {
+   "sha256": "934eee81c89d896b4f6f8ae63696aa1f9f241c3df4631b010a3af435214f55bb",
+   "size": 27687
+  },
+  "LUK.12.caf": {
+   "sha256": "ffeef488262af6909c8d1a359fecf60360801af383131935ca42f48a66323568",
+   "size": 1977486
+  },
+  "LUK.13.json": {
+   "sha256": "c65ea50a48a4e92ba30c560a164f05e4a5c4f3b2c23500738ce97e46b50ce258",
+   "size": 17156
+  },
+  "LUK.13.caf": {
+   "sha256": "e1da16d40fe738276c4866b657d973fcd6c04c9df01651f505616648511e75df",
+   "size": 1250574
+  },
+  "LUK.14.json": {
+   "sha256": "6d9cb0e11bb47782d8f9bd6a7f39f682b7928750e0010299e0358899832c5bb5",
+   "size": 16595
+  },
+  "LUK.14.caf": {
+   "sha256": "40301679da78b96d8b5e448bda5cd8925e0804879103e4480a25b5671c59ae67",
+   "size": 1161431
+  },
+  "LUK.15.json": {
+   "sha256": "c579694c4a0a03d4d99b2e7405fa25e7687f97be892d329988afea901d0ec09a",
+   "size": 14399
+  },
+  "LUK.15.caf": {
+   "sha256": "79646dd5fc879e8e5afb6444764a83fb981b177faffef8bd7d0d56baab6e4a19",
+   "size": 996935
+  },
+  "LUK.16.json": {
+   "sha256": "8374920342011546ec8d0fd90b24883342360d002416f54f38c85fed0d80c4bc",
+   "size": 15774
+  },
+  "LUK.16.caf": {
+   "sha256": "2066539d3823523ba1eafb6f1eb6ac4948fdae0cb297e2d94667eca3bd9ebffd",
+   "size": 1096203
+  },
+  "LUK.17.json": {
+   "sha256": "d30f8b59af1bc30cc17895a2d11bbf2ecc14a519572c157919ff56b257935151",
+   "size": 15258
+  },
+  "LUK.17.caf": {
+   "sha256": "f95b34bdd2b92ad3484a4f3fd51a04a43aaed5360e5c3f8bf624cad529fdcfdb",
+   "size": 1099284
+  },
+  "LUK.18.json": {
+   "sha256": "1de419276948aa4b4494bb213548f171109fe6bd93af4dca0deffa778fe4ffc3",
+   "size": 17927
+  },
+  "LUK.18.caf": {
+   "sha256": "fc852229a45e27a1807ccf341022141934775a987e723ef84612fbfb495df0fb",
+   "size": 1287785
+  },
+  "LUK.19.json": {
+   "sha256": "5bae580b7359a707b2fea378c267a6f5a1d19d6e08b404e0148eafc03331efac",
+   "size": 20687
+  },
+  "LUK.19.caf": {
+   "sha256": "7b4b32584cd4bf5d399f36c917727bd35c8fc8b146db5f5e0aea188f2841e587",
+   "size": 1436728
+  },
+  "LUK.20.json": {
+   "sha256": "86a1e368129de5e34ed4bd71035fb3cf85252726cacf0b8a40162fd7c129a8b7",
+   "size": 19679
+  },
+  "LUK.20.caf": {
+   "sha256": "875cf75d9eb7af8c2551794a0b23651e3990ffdb7feded6d1b073d0ab51dfb00",
+   "size": 1398023
+  },
+  "LUK.21.json": {
+   "sha256": "d01b12498cb05e07429abe806d2fdf5e6783b33d0857134df023ba6b75805b6e",
+   "size": 16389
+  },
+  "LUK.21.caf": {
+   "sha256": "0065eb89d6be1dbb17182e5006b4379ad601ce1268652dd4ed00f3730e95dcc8",
+   "size": 1181457
+  },
+  "LUK.22.json": {
+   "sha256": "46909479a42bd09fac9396c51c1b601188886a91cfd3d893df10f13c5f2167a7",
+   "size": 29417
+  },
+  "LUK.22.caf": {
+   "sha256": "866c5218e5d55741c0e7189c8fd788ea4d22029268273735c1b9480399fa104a",
+   "size": 2046488
+  },
+  "LUK.23.json": {
+   "sha256": "7f71ff58f9c551ba58b74fb6939927f061d3ec7a94fa31c59906339074a2866f",
+   "size": 24061
+  },
+  "LUK.23.caf": {
+   "sha256": "d096e45fa2d5ec7b2ea4d0d9cd35cdbce0d2fa0481f4604a35fa1c8979d0fa5a",
+   "size": 1732315
+  },
+  "LUK.24.json": {
+   "sha256": "b69c8a6e409a606e9911d2eece188e08f33986e8a44b42bd610b0e348de5e92b",
+   "size": 22773
+  },
+  "LUK.24.caf": {
+   "sha256": "d49d2ffd97fae3b8454458b93956c44563c3f880db4926bbd6c1c10b603d9b97",
+   "size": 1568437
+  }
+ }
+}

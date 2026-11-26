@@ -1,0 +1,133 @@
+{
+ "id": "leida-es-RV1909-2026-ROM-v1",
+ "files": {
+  "ROM.1.json": {
+   "sha256": "12a37cad9f37d6d510eef24ef80c98fb35d334f5a89b902ab511eccb5521096f",
+   "size": 15547
+  },
+  "ROM.1.caf": {
+   "sha256": "48d20dd06c014a16578a2d18123e1617424f4b26861dc1f11a871eae6482bddb",
+   "size": 985859
+  },
+  "ROM.2.json": {
+   "sha256": "03b2ed57a747c90853b8e2f3ef36cf45f06a318dad2102d925dd86a76c69f858",
+   "size": 13212
+  },
+  "ROM.2.caf": {
+   "sha256": "a8d1dc9adb62385e080fd76355633d8fc8b14a3f30ce1590b11170bd2235237c",
+   "size": 803081
+  },
+  "ROM.3.json": {
+   "sha256": "63feb5b91660d0f3b3f6ac5d60d7e0eca8a5436c3cffc0611ce06e92cd744ea2",
+   "size": 12625
+  },
+  "ROM.3.caf": {
+   "sha256": "308d6bd47d9dc4fb51bfbabb42fec79e00a016d88249024d423c2fc10a85efd3",
+   "size": 744975
+  },
+  "ROM.4.json": {
+   "sha256": "8fe9b9daa9344c674e23c5127ce150fa63071af629a843db61f00277c259b3f0",
+   "size": 11759
+  },
+  "ROM.4.caf": {
+   "sha256": "96633d1a3f1db5d975161ce834ff9fdc26905a0b23e7a3e33ef9f2c1d533e485",
+   "size": 721349
+  },
+  "ROM.5.json": {
+   "sha256": "6c0a047b48edde9745b482e241b15d6f2099c7289a1ef5e4a72abeb000b221ef",
+   "size": 11212
+  },
+  "ROM.5.caf": {
+   "sha256": "d0dbe7acb13f42265d80bc196c2f6791b4975e44f107e97586d5721c8b9c0165",
+   "size": 698517
+  },
+  "ROM.6.json": {
+   "sha256": "b43832eca4cbb9c47023f1525550cc3bc089507f3e317100f243908590046448",
+   "size": 10603
+  },
+  "ROM.6.caf": {
+   "sha256": "afb23619ab218727a38b30d9d246bda9c19feb3d5f8c8a62551eadbdb0d09b3f",
+   "size": 661951
+  },
+  "ROM.7.json": {
+   "sha256": "31c1f69bc3cf3ada7d4f67692ca05e4368288d4e53278ae86c574596a2cb5cb0",
+   "size": 12085
+  },
+  "ROM.7.caf": {
+   "sha256": "dce30afe5d7ebb99d939207be4c09aaf4f574953c008fa0058fd1db0a507dbd6",
+   "size": 689858
+  },
+  "ROM.8.json": {
+   "sha256": "846eeff2e4529c454fa92bd519d5b58ca42bbe5953f11b7467eeca098409cf43",
+   "size": 19894
+  },
+  "ROM.8.caf": {
+   "sha256": "47c547e2be75a7f36eb8c7a1bc7f0ed9041a35bb3a7f55986920230e636b48b9",
+   "size": 1197476
+  },
+  "ROM.9.json": {
+   "sha256": "79849f6fc313709295151d2efa2523d206367d0bb0a19e4807d38ffc6332944b",
+   "size": 15142
+  },
+  "ROM.9.caf": {
+   "sha256": "d8f19739a8c48479e039e66d3ac86805105611161a8b76e10fa1248cb2536e10",
+   "size": 919101
+  },
+  "ROM.10.json": {
+   "sha256": "15cddc571a9e8a2b8058087ef706dae740a6db41d07184b8964f47fe6f031a94",
+   "size": 9633
+  },
+  "ROM.10.caf": {
+   "sha256": "03f6bbd4b6c4c04a218c67e3eaa4964127431311cd69dbaae195245d0fc310af",
+   "size": 581114
+  },
+  "ROM.11.json": {
+   "sha256": "9ce38fd54cf50d53b78a58c8136446e6889625d2fa3e639e229f013c1eb34a05",
+   "size": 17530
+  },
+  "ROM.11.caf": {
+   "sha256": "c54a453e59663ae6a8ade54a20dd8dfac4731e09fd36f40390ab600a230e29c6",
+   "size": 1082437
+  },
+  "ROM.12.json": {
+   "sha256": "fc19661e5dd194529daa1d27685fbe8fed8b7a0452909cd2ae5acc154119e001",
+   "size": 9048
+  },
+  "ROM.12.caf": {
+   "sha256": "9b80502ce0088556f57ad585a461f7882ec98923ea460f41ac51d5794f685469",
+   "size": 579505
+  },
+  "ROM.13.json": {
+   "sha256": "ad038490367956651abbb4b2e9cd5910a59dffdcb920c5605a6fa37a9129fda3",
+   "size": 7009
+  },
+  "ROM.13.caf": {
+   "sha256": "ff744c69e61ca3840b68d9ec109be73cf998c413fadbedfd3e80b3bc04d2404b",
+   "size": 438062
+  },
+  "ROM.14.json": {
+   "sha256": "4691c28276eabf09831fe754b5d25c648685a5387850139da44a94d2ee82f21f",
+   "size": 11100
+  },
+  "ROM.14.caf": {
+   "sha256": "6ca37ea5970a1da3c01565e68ec5f0cd16f2b70264234d04a05d6f80e91f5362",
+   "size": 657838
+  },
+  "ROM.15.json": {
+   "sha256": "f0fea76b37216ece176f839df6bfd8005f82b18fb96bf37eb33dc10048eceaf2",
+   "size": 15453
+  },
+  "ROM.15.caf": {
+   "sha256": "2ce77c0ae4513bfb83bbd76daf927a288914d9e0c65e2d3760eb2e14eabc1aac",
+   "size": 957716
+  },
+  "ROM.16.json": {
+   "sha256": "8c5f00b3fbb3be999f04ad81c497bf2ba222d9019097e62c54731921c9c30035",
+   "size": 12116
+  },
+  "ROM.16.caf": {
+   "sha256": "7b3e0dc7996c139ba5ac1812824389d8d59a72c24a5e8be24411e690bbfcaa0c",
+   "size": 749414
+  }
+ }
+}

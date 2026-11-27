@@ -1,0 +1,133 @@
+{
+ "id": "leida-en-KJV-2026-MRK-v1",
+ "files": {
+  "MRK.1.json": {
+   "sha256": "0d83e2ff19e2d86b2787c3feb8fea80541972d7ad7549fcd9e783144dc519ccc",
+   "size": 20764
+  },
+  "MRK.1.caf": {
+   "sha256": "96a9d0ef19ade12f29edd32e4eb98f8e767bad79acd52f97b7bc4198f2fb64a6",
+   "size": 1214063
+  },
+  "MRK.2.json": {
+   "sha256": "20c7fcde91740daef52d5536473d81774d8e07f4fc8b5edc3a9b1db7d6ae8dfd",
+   "size": 15429
+  },
+  "MRK.2.caf": {
+   "sha256": "b327a2d1f5bd8ecfefc173dd6b90200eb3a64fbd6f2d0d38cdb8f8ac5c7de36f",
+   "size": 889876
+  },
+  "MRK.3.json": {
+   "sha256": "7729624d54d6af0b7d986f5ed8c6edb36928d8fa0060289c0bde57e265139260",
+   "size": 14936
+  },
+  "MRK.3.caf": {
+   "sha256": "80887385e310d00b9555cd1f5a482267db1b111709e495065d1cde12b97b8d75",
+   "size": 890552
+  },
+  "MRK.4.json": {
+   "sha256": "815fe7bb0e36e64bccbfd07f7d11f5c2c9d2cb1760921f3693927f077fbaab19",
+   "size": 20228
+  },
+  "MRK.4.caf": {
+   "sha256": "68307ab952db09758c13e04b0f839220bf1e100444a00b62baee58b913619e6e",
+   "size": 1145982
+  },
+  "MRK.5.json": {
+   "sha256": "fc9d3349bb8aea35db18cb8eb12b30b9f10929cd2ee87bce0ae94595ab063d63",
+   "size": 20871
+  },
+  "MRK.5.caf": {
+   "sha256": "19f11343d3925b2aeb10853251ab81247abb5b40cd270ef4cdbc41867606fd88",
+   "size": 1210033
+  },
+  "MRK.6.json": {
+   "sha256": "9799222d4481f7fb7ec27f8c04ae9e0722e745254cd16df691c819b1c91acd45",
+   "size": 29133
+  },
+  "MRK.6.caf": {
+   "sha256": "ec3956d30f0e48c2201939df70be78aa206b1e0cdd7db6e4c0dd8d350e56b299",
+   "size": 1650095
+  },
+  "MRK.7.json": {
+   "sha256": "3f00ceb70a212bebf3cb3b6721838b0a5b648ab704b2556aba8a4fc9094c93c6",
+   "size": 17909
+  },
+  "MRK.7.caf": {
+   "sha256": "c4d7dd55bccb2adf046e51509b95b2e5edc5931d42d2eacbf5f47c71d1c72b76",
+   "size": 1056725
+  },
+  "MRK.8.json": {
+   "sha256": "140d656b4939e34950b398e9f24881f5d6daad877b4c01a558d407d8287ae629",
+   "size": 18658
+  },
+  "MRK.8.caf": {
+   "sha256": "584ecb81ceb307bcbf71130b5743bc285b9a4b8af50efd6cee46aa9dcbdbff30",
+   "size": 1091310
+  },
+  "MRK.9.json": {
+   "sha256": "c316e93d0260d7343ec1b5bf78d1c608efd562647cc7f4bddfdea2c73f10a804",
+   "size": 25623
+  },
+  "MRK.9.caf": {
+   "sha256": "08d0cd30d39a3875ff7454335ec65b4ba28bab19083785efb053d1477b77acee",
+   "size": 1462772
+  },
+  "MRK.10.json": {
+   "sha256": "f55a1d1682567b95cc2945e87b80e80f2934d12ed4566e3a91985c93f4dd5d88",
+   "size": 26783
+  },
+  "MRK.10.caf": {
+   "sha256": "3ea3de0a278f7783f68d5306b2104723f9c744d25f303652d833a971678f238c",
+   "size": 1578374
+  },
+  "MRK.11.json": {
+   "sha256": "48380def9b308fd71f9f1d0fa6ceee8abe7ded3badf084706a3d1fd69b45513c",
+   "size": 17021
+  },
+  "MRK.11.caf": {
+   "sha256": "2805aea8388118e91ee24c6ea245c3e606429727324136be6a798a5d10184bec",
+   "size": 987887
+  },
+  "MRK.12.json": {
+   "sha256": "fa790622e5889ed58e2fbdd088c0ed535f214c78772b7c4837dd483ba10e90a4",
+   "size": 23307
+  },
+  "MRK.12.caf": {
+   "sha256": "0409b651e006f12acd22e0579219a0bb56ff6a655971bdf7f226e457b565a0c8",
+   "size": 1336113
+  },
+  "MRK.13.json": {
+   "sha256": "09046f74797644411585fe6607845ae10fd007200a70185387a3f2f2435c98d7",
+   "size": 18312
+  },
+  "MRK.13.caf": {
+   "sha256": "851af7fe32fddb0e95061098f39cda19641446d07d0810bd4499e3e8c91956c4",
+   "size": 1044216
+  },
+  "MRK.14.json": {
+   "sha256": "a504935cb10ca83b0340046e90aacd6a4b982210ffc97d59f7e26a3f85f147c0",
+   "size": 35295
+  },
+  "MRK.14.caf": {
+   "sha256": "28a694d8518129f45eb2988830f0d2583a61ef0e7966bf51c96b50b88578acd5",
+   "size": 1971131
+  },
+  "MRK.15.json": {
+   "sha256": "2c349cd2b709929a4bf0cc64755911bd1c20e12fe53ceb2295eaf119f89a086c",
+   "size": 20690
+  },
+  "MRK.15.caf": {
+   "sha256": "5ff5fcc4fc64481af496c5f7b83788046817aa42a79d1d1fb47df443620277fc",
+   "size": 1210992
+  },
+  "MRK.16.json": {
+   "sha256": "ca7491bd07bc1487474621e07d3ee9b54f44184ec6ada603eecd33bddd8bc88e",
+   "size": 9796
+  },
+  "MRK.16.caf": {
+   "sha256": "6a54e085fe06a7e9fd1800e429071ff9e1f2561136c5b558d37b4bc96fd2c9d9",
+   "size": 542996
+  }
+ }
+}

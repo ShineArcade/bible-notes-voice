@@ -2,36 +2,36 @@
  "id": "leida-es-RV1909-2026-RUT-v1",
  "files": {
   "RUT.1.json": {
-   "sha256": "bb92e75884954e1cdfaa04f2d5f78d64551e49c984edde460e101bdc211d64cc",
-   "size": 12573
+   "sha256": "be9386a3d8bf17648203f81d949e64518419e2d588d963d52144742e3cec03a5",
+   "size": 12560
   },
   "RUT.1.caf": {
-   "sha256": "50bb15a32b7937bb19343e505303aeedf6c16cccea34e4da2f3e499e4fa8a0dc",
-   "size": 899013
+   "sha256": "550d95d572664069b4efc82cd8d1f00da60c8a9249c2bcc2456b92259fa362b7",
+   "size": 858714
   },
   "RUT.2.json": {
-   "sha256": "f09e25f93778c5ef3231d07480f2b1d0e61252a6eb94591843d63f8042e6e0bd",
-   "size": 14632
+   "sha256": "4f0ab8026b596a178be52f112aa46c0ad630043f5ec0aa1e33e24c2132ff13f0",
+   "size": 14615
   },
   "RUT.2.caf": {
-   "sha256": "9a9380e9a6d12448301c2c621aa6ef4819e31dab0f46286361a116d81f1dc57e",
-   "size": 1034814
+   "sha256": "8199c49d97375fb97f1b6de123730dfada80ec31a26c70259d4a2ae7a5a984a6",
+   "size": 988406
   },
   "RUT.3.json": {
-   "sha256": "616aacdf777c75920d02824e92861f409740da9a9e69a3792db0e221a47016f9",
-   "size": 9961
+   "sha256": "2228dbfa60b519634a71144b94b441297c03de473839ef2b7b1bae307035d6b4",
+   "size": 9952
   },
   "RUT.3.caf": {
-   "sha256": "c5026bb2c1a4838bc36d4571d0e829b2e7769584d85554669ef193bb2f1a0bb6",
-   "size": 697207
+   "sha256": "4a1316bf72345b231ce11d6db4227f20383901f7e54f0174e852db369e5a173b",
+   "size": 675646
   },
   "RUT.4.json": {
-   "sha256": "06f9130b5f2f61103a3f8ef72d563b3c404d34c075cecd9b8b992c6993ab8718",
-   "size": 12715
+   "sha256": "449b7351e704b75afe5e7e0f2929632cd4511bb93809b5d460767e4e2e16750e",
+   "size": 12694
   },
   "RUT.4.caf": {
-   "sha256": "c6785ddaf2f14b5a4bf05452ced959291981f9d46dcac26c59416b9ff95a13fd",
-   "size": 878356
+   "sha256": "7ccad2ee019d6c5d5fd0e702fe3988f3834d9c875d0854fb2cb491621f114707",
+   "size": 831177
   }
  }
 }

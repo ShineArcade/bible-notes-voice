@@ -2,36 +2,36 @@
  "id": "leida-en-KJV-2026-RUT-v1",
  "files": {
   "RUT.1.json": {
-   "sha256": "1ea33c6aed3959fc768ab5c68ef2f0c63bbdc9ee0ee470e9c4ff86190e8d5284",
-   "size": 13771
+   "sha256": "d06010ef2786e3356a3a41c097ccc5e58b49087a8f3589e1912852a3bba40900",
+   "size": 13758
   },
   "RUT.1.caf": {
-   "sha256": "24b80cf5087749f4eac95295381741e620035d0407a495271c905646c74bf11e",
-   "size": 845567
+   "sha256": "fcb933959e0cf35f60af82d4c1453f8b7551d62058f1b4bbbde59672c6a8db35",
+   "size": 818548
   },
   "RUT.2.json": {
-   "sha256": "b9ae40c2f4a1a97aec075870c95620b6f8d4fd677b7531189c35b2260377e15b",
-   "size": 16026
+   "sha256": "9325c311a0d78355290f0babacaaca9fe44f3d6b63f74f21f3a0bd7560fcfcbe",
+   "size": 16010
   },
   "RUT.2.caf": {
-   "sha256": "1b3ff717d5e12897e3bf7f7b5313ddfcfc6e8f987b03f2533dd1b0a4cc5b234e",
-   "size": 913590
+   "sha256": "411b3808b1635d22298020ae1d566224bfa26bd0e66344ce7d76c24a063296e6",
+   "size": 891574
   },
   "RUT.3.json": {
-   "sha256": "8a48e4e1666f3d043d7ba5f5b023705b0ad2fd8757b8208de1a62d7844abf5fe",
-   "size": 11288
+   "sha256": "0c0b5f7a67c54d7b2051d27382711f01c66c03c51e3c42ace82928d95f2e73f6",
+   "size": 11272
   },
   "RUT.3.caf": {
-   "sha256": "52a1918932c92ea8c3d2b1ac498aa6af05d121a6871b37d0c5262826fa45f421",
-   "size": 641905
+   "sha256": "4e7d6c8df7d4c7a0c3487f2b2bb418f8455f958c48668c4b935d372f091890d0",
+   "size": 617310
   },
   "RUT.4.json": {
-   "sha256": "434e73bcb16bab6fe141c9d3c8b9d29c5cf35ec48197256a34b82c458d902278",
-   "size": 13266
+   "sha256": "7d7e7541512e4b6950afd5c17f9e290c170787c1db25fa2910efbf9115e90067",
+   "size": 13256
   },
   "RUT.4.caf": {
-   "sha256": "440bfad7d0659c304396ab6398bd8ced8342d6b76aaa4a8007ec93a247d65b88",
-   "size": 798343
+   "sha256": "83dcc664989ad1698d0e89bb7589ab30ba263439f0acaed06a54fca01b5d6603",
+   "size": 783200
   }
  }
 }

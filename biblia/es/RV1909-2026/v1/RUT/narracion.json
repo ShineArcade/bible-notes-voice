@@ -6,8 +6,8 @@
    "size": 12560
   },
   "RUT.1.caf": {
-   "sha256": "550d95d572664069b4efc82cd8d1f00da60c8a9249c2bcc2456b92259fa362b7",
-   "size": 858714
+   "sha256": "23effdfe5df6bf5dc05588ba874494df47ef4ed18946e5f1249febcdcd57fa92",
+   "size": 857275
   },
   "RUT.2.json": {
    "sha256": "4f0ab8026b596a178be52f112aa46c0ad630043f5ec0aa1e33e24c2132ff13f0",
@@ -26,12 +26,12 @@
    "size": 675646
   },
   "RUT.4.json": {
-   "sha256": "449b7351e704b75afe5e7e0f2929632cd4511bb93809b5d460767e4e2e16750e",
-   "size": 12694
+   "sha256": "2e7def0a33a36c7d97b1e19640a0a65bf068b874195fc26e681593acaa01a443",
+   "size": 12693
   },
   "RUT.4.caf": {
-   "sha256": "7ccad2ee019d6c5d5fd0e702fe3988f3834d9c875d0854fb2cb491621f114707",
-   "size": 831177
+   "sha256": "12629a660d272e65343d513d43bfc2243a40a8bce25628bfecc37952c75bdbc5",
+   "size": 828621
   }
  }
 }

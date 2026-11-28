@@ -1,0 +1,533 @@
+{
+ "id": "leida-es-RV1909-2026-ISA-v1",
+ "files": {
+  "ISA.1.json": {
+   "sha256": "d6610a4c34a457980e872c76b6e522f190fb1d322e13b0d9387a4a6ce73c4252",
+   "size": 14891
+  },
+  "ISA.1.caf": {
+   "sha256": "ac1d4a94a94d7b3f07839b4d4bde991779bf2e173e95a8911873d2387dbe38df",
+   "size": 1154044
+  },
+  "ISA.2.json": {
+   "sha256": "b751a7bdc65b8053c778a46f5b09726379fd76a6f5c5326e9070ea3a80b1e2be",
+   "size": 10991
+  },
+  "ISA.2.caf": {
+   "sha256": "6a153bcb2b5276c3faf2c6da7be4044acb9006e5751386778b838cb54cef5396",
+   "size": 842997
+  },
+  "ISA.3.json": {
+   "sha256": "209f75f11ade250e9f22f62a5c10263e4616cce0ac51c9a9708c8c412d223591",
+   "size": 11865
+  },
+  "ISA.3.caf": {
+   "sha256": "77302d907ae739f846306e536e6693cd14f5f59abd3eb6cdaf10861bc92b7862",
+   "size": 869993
+  },
+  "ISA.4.json": {
+   "sha256": "7970703ada290cf80ed89ab340a6af24a995e57d17e52e4181399591b5a1c290",
+   "size": 3825
+  },
+  "ISA.4.caf": {
+   "sha256": "1f755f1be02a15a8dc6874bd471300e5090115128f4e1529df67c5a4b09c9f61",
+   "size": 301058
+  },
+  "ISA.5.json": {
+   "sha256": "097ae7d26a62a140efa2b75b75a7617061247d10e3c6efb56a6ccc446a900b4c",
+   "size": 17030
+  },
+  "ISA.5.caf": {
+   "sha256": "a9ecc6f50c8491c942f529f982155e2c6aa57bc1bb4ffa7d845fae45ccfb3aa6",
+   "size": 1276018
+  },
+  "ISA.6.json": {
+   "sha256": "79d65e3572e2320efba433d52767a4b143639989f0e3a36a335c7aa7e015438c",
+   "size": 7419
+  },
+  "ISA.6.caf": {
+   "sha256": "34a6417adebdd3b6d9e872097693476850096fe5f00699757695ba7d158a9653",
+   "size": 544072
+  },
+  "ISA.7.json": {
+   "sha256": "904713e8be4eb4b37146f9c99b1bf66aeaaf9aeeb1523c1c0a1cff934b0f9070",
+   "size": 13561
+  },
+  "ISA.7.caf": {
+   "sha256": "c35dc074650896e32b0e2dbf4ec79942240f8d642d95a95fc097879a922f0b17",
+   "size": 915940
+  },
+  "ISA.8.json": {
+   "sha256": "fd2540f4ebb309ce9ed58a29f3f3f5bc469ea510558d6078f363727d0edc944b",
+   "size": 10789
+  },
+  "ISA.8.caf": {
+   "sha256": "986d142d1f0c4a669b8bd7a3162eb4b5467229133641a252c016c9d5af978d78",
+   "size": 799288
+  },
+  "ISA.9.json": {
+   "sha256": "3dbc52e3a14461383da106824da288c5e274c742bd49fb376fec196d8a2032bc",
+   "size": 11530
+  },
+  "ISA.9.caf": {
+   "sha256": "e7cfac90f1e05b12a698ee20af32c5e35bb830d6c24c8f276db1ce96ccb878d5",
+   "size": 875865
+  },
+  "ISA.10.json": {
+   "sha256": "5192dd7c531aec01ee3889e5ca34e3d251b12e8f9eb6b1d0c81b1a075878fbeb",
+   "size": 17501
+  },
+  "ISA.10.caf": {
+   "sha256": "754c0ae1d8c17f477b4fb17f61b1b4f2ce78d22aa129a726fbdc0b45b61bcc87",
+   "size": 1245566
+  },
+  "ISA.11.json": {
+   "sha256": "b157f94c9342e311a139cdfaf1e5cdbc9b7abea28519c694062f18cfe8ad085c",
+   "size": 9705
+  },
+  "ISA.11.caf": {
+   "sha256": "3befdcbf678c308dd0f007aeae073c777b8ea050190c04fb1e60829d5b612601",
+   "size": 748077
+  },
+  "ISA.12.json": {
+   "sha256": "4558888215a7251e4a5761a55758382056f805e1dc55d9402da83a2ef01d914a",
+   "size": 2714
+  },
+  "ISA.12.caf": {
+   "sha256": "4249cfbc7ad7b42574a8b8b73d63bf6d91dd259ce251363db57d2878e9803ead",
+   "size": 176051
+  },
+  "ISA.13.json": {
+   "sha256": "a6b328e37489e0c653d0995e609520820412367ba4047e14f42c14fdfabb4ba1",
+   "size": 10884
+  },
+  "ISA.13.caf": {
+   "sha256": "cf42eb1776213cb04216b7a3578f8638ee4133c6d490971288c9210244bb63cb",
+   "size": 828966
+  },
+  "ISA.14.json": {
+   "sha256": "00a58d6bc8d9baadeb2ea39f15cdb88f768ae50a398b75f265c6465254727b62",
+   "size": 16523
+  },
+  "ISA.14.caf": {
+   "sha256": "708ed2549c5de098c0af6b669ea3f3b4dd072a19fb3d2e124cdea0802bf8e6e6",
+   "size": 1207705
+  },
+  "ISA.15.json": {
+   "sha256": "a24816b41a2b49fab2879de2473ff573330d2db910dc040dd7ec95d3cbdeac4f",
+   "size": 4835
+  },
+  "ISA.15.caf": {
+   "sha256": "e9d8c06e97e024a8683dcb6b46338d82b2ed56fc4b5ea5aec94d3663fde78aa2",
+   "size": 393664
+  },
+  "ISA.16.json": {
+   "sha256": "f3208a2cfafd0bfd39911fe22de96736552d7b351c600f70e9c0c0e8743aa668",
+   "size": 7866
+  },
+  "ISA.16.caf": {
+   "sha256": "4f2ce9b25dd41f461ee71de9333f71b9b6cea57f67dd3d90bcdf445f4f9c2b95",
+   "size": 614596
+  },
+  "ISA.17.json": {
+   "sha256": "12afba4059f090b9d87e047f6fb66491d2addf7e249669b7ddbaac24485d1be8",
+   "size": 8096
+  },
+  "ISA.17.caf": {
+   "sha256": "ee499078d9179b41ab676c49cd7518122c4ba7a5d972b16cc7ce4fced0fcc3ca",
+   "size": 593384
+  },
+  "ISA.18.json": {
+   "sha256": "15f3557cbf52b1e23778001d74038547aef61454400b2486facf7a688323b9f2",
+   "size": 4771
+  },
+  "ISA.18.caf": {
+   "sha256": "52a46f4e0875f7f88a19e0f7337f5393074567b6faa604679c4a8cec7339b14a",
+   "size": 384602
+  },
+  "ISA.19.json": {
+   "sha256": "3bf4419fec9bd5df1802f8a618c45e9ca489e513414ed9ccdf6e79a532185baa",
+   "size": 13912
+  },
+  "ISA.19.caf": {
+   "sha256": "62ba84ce9fd984795ec64f4760e8c2844732d876aad44c964620f7f085197366",
+   "size": 1041770
+  },
+  "ISA.20.json": {
+   "sha256": "d4ee42d27d52920b2ab6dab4dede5b51a8ffe663621e12410f0819f05c98302e",
+   "size": 3485
+  },
+  "ISA.20.caf": {
+   "sha256": "acdd8d799adb74b8854cf6250417a3bca6e282221314945cdac572063027936a",
+   "size": 259040
+  },
+  "ISA.21.json": {
+   "sha256": "5c21d42fa9b424a3cb9b371adae5d0e1d67fe7f68f89e23b7521bdaadfe1e8f8",
+   "size": 8060
+  },
+  "ISA.21.caf": {
+   "sha256": "5cdf6e42d60bccf5e0c6a28111ce2928f8e587736270b74306fafd86f40c1291",
+   "size": 611516
+  },
+  "ISA.22.json": {
+   "sha256": "78781506f0aa643ee6432f198dcc9fc707b03d3a86469dbbc47c398b91e9848d",
+   "size": 12849
+  },
+  "ISA.22.caf": {
+   "sha256": "e4aa727e6dc95575a9837eef142cd1128f04d169268821e7701cf01483d9e4d8",
+   "size": 922254
+  },
+  "ISA.23.json": {
+   "sha256": "03106a6a74bcc6e2b34c5fec2f3414c7aebaf717f1aabd041a08a50918a705c6",
+   "size": 8835
+  },
+  "ISA.23.caf": {
+   "sha256": "c9533770085dc13c712525d87818a4501b328a7a0276de27172bf384d97e773d",
+   "size": 720041
+  },
+  "ISA.24.json": {
+   "sha256": "fe12139b485b29318929955479abe1691bf7507c373c6ce52500daf1922a572c",
+   "size": 11388
+  },
+  "ISA.24.caf": {
+   "sha256": "5a158b4f4697b202ab2d84eea04d8ba4d12b11aacca46668f0ea4d6e6b922cb8",
+   "size": 874694
+  },
+  "ISA.25.json": {
+   "sha256": "be21db3d86de9eb30035e29338032447b2c5e845c71403a6bcb2340e7c6bac3e",
+   "size": 6705
+  },
+  "ISA.25.caf": {
+   "sha256": "e7336bd1b03e32758273a78b30ac90d170e09e05368bb7cdb30a45dde2128093",
+   "size": 523391
+  },
+  "ISA.26.json": {
+   "sha256": "5d24f61f355ba009e55ed612acc086994d33440ad8a993ce2cb999a41fd5d585",
+   "size": 9987
+  },
+  "ISA.26.caf": {
+   "sha256": "66120187fcf544a5f69fbd0137a03a5a272ffc969329f609fbc3762aedede42f",
+   "size": 761471
+  },
+  "ISA.27.json": {
+   "sha256": "2adfa9dcc945f830e0da7416151f8576dc380141cf9510bd5a8ec248db071dc4",
+   "size": 7271
+  },
+  "ISA.27.caf": {
+   "sha256": "52cf356afd58ea7f9703fd909dd8d5f0a25287bd1fb416f2cbc96a043a970bda",
+   "size": 565956
+  },
+  "ISA.28.json": {
+   "sha256": "694d95aa5227a14a3fcce3528ec1294692f8f180b8a28fb6eb40e3385c2928f0",
+   "size": 16346
+  },
+  "ISA.28.caf": {
+   "sha256": "dc716556e3239edf09c53da0f32936ab41317925d3427d71a2bc60e56f301fc7",
+   "size": 1219109
+  },
+  "ISA.29.json": {
+   "sha256": "5b933a84968188121299f27aefb1e3960911a202e3b0be0b6e1beda3a22b384d",
+   "size": 13644
+  },
+  "ISA.29.caf": {
+   "sha256": "02764b0089a5691c36757834a86d542c5445bbc8b89f95594620c3f4209cc98d",
+   "size": 1010447
+  },
+  "ISA.30.json": {
+   "sha256": "753b3509a3c3ca7eb4e742fbdf28522a34529c5ac6602c19bb55775684984f5e",
+   "size": 20057
+  },
+  "ISA.30.caf": {
+   "sha256": "00af71e552c9bed1b647cb8cb6d2ef6e8c27aa700cce2a9fefd77a95f40f4b1a",
+   "size": 1520130
+  },
+  "ISA.31.json": {
+   "sha256": "a17cefff18de1e4cf84f7efc3d63a9e9a4d8f0410a760e2828eb54ec0437f0e2",
+   "size": 5965
+  },
+  "ISA.31.caf": {
+   "sha256": "d94076f833f46e7fe2d00cebcaeeb0bb8a962f66d82feca82df259ab5831fd20",
+   "size": 460663
+  },
+  "ISA.32.json": {
+   "sha256": "22339811596ffaadd742d8b7fb6de767dd111b9a5127f90592711a03ae7652d1",
+   "size": 8738
+  },
+  "ISA.32.caf": {
+   "sha256": "fc8d1b65db7c34453d4292aff288f8a975ea857afa5f034b279cb053e2124bf2",
+   "size": 687404
+  },
+  "ISA.33.json": {
+   "sha256": "4ad6206f90c4eb766190f65f26798d833586dbcce27adff77800f8a6a55cff01",
+   "size": 11930
+  },
+  "ISA.33.caf": {
+   "sha256": "b9e10c9226875b22bb9fd74dbfd22d0cf65eb33189a83d30d49907abb3380787",
+   "size": 924576
+  },
+  "ISA.34.json": {
+   "sha256": "5511c19d11b615e00d3da795e51f6f87e9c164a26b83a2db4fe29d6e8b371224",
+   "size": 9440
+  },
+  "ISA.34.caf": {
+   "sha256": "a303b7e1c5c83cd1709783cdc6ac81d5a1c571ca253a5a69d559eeed13d4c286",
+   "size": 742685
+  },
+  "ISA.35.json": {
+   "sha256": "c263dc9f9d36194643ea094031aacba8a720882e7e99d4a61358706c76dbd126",
+   "size": 5358
+  },
+  "ISA.35.caf": {
+   "sha256": "2d9be5b292ca81408e215aa9641f6afdd5c57f4d46764a3dc21e343099bf22d8",
+   "size": 435222
+  },
+  "ISA.36.json": {
+   "sha256": "1675ce0bef956d362860369cf783fb253f50a48621b22e118f8e159c03e062c5",
+   "size": 13373
+  },
+  "ISA.36.caf": {
+   "sha256": "f8c3f85997165b314e63bc32c2b5838b54afdd329c8af4fbbd16f0af515a1d48",
+   "size": 892347
+  },
+  "ISA.37.json": {
+   "sha256": "77cf30553482071235a1205982f1416995654078b892baf247d13145fcf448b6",
+   "size": 21881
+  },
+  "ISA.37.caf": {
+   "sha256": "6c10271d07590746325fac08687a0c6d0e09c3683152c67ae533a0e586f84bb1",
+   "size": 1505588
+  },
+  "ISA.38.json": {
+   "sha256": "c62aeb79cf7baa2d46585cbbbf51c52020e3ef9ed397b561aa733334ca5304ed",
+   "size": 11139
+  },
+  "ISA.38.caf": {
+   "sha256": "768eafab8e5b9a5a57968c5cbf9760bdc7ead2eff0c5c2a7b54e6a196a3818a2",
+   "size": 704404
+  },
+  "ISA.39.json": {
+   "sha256": "a656231cb465bdbc72ac99048580594ce03f6893c5c8fda2f5ca0da18e96a370",
+   "size": 5096
+  },
+  "ISA.39.caf": {
+   "sha256": "a9dce4b0c0ab453bfefbe6ce797983ff46e4465b51d9c87d5217ba74157494e7",
+   "size": 378217
+  },
+  "ISA.40.json": {
+   "sha256": "d93a362a3b8f4eafdd665d3d70336e71cb1ef1ca65afe8f331c1b1f071374c91",
+   "size": 15631
+  },
+  "ISA.40.caf": {
+   "sha256": "64f9e8f757fcfe4477885f5906b55246d83ea0cc1180670decb05ba889b777ad",
+   "size": 1138936
+  },
+  "ISA.41.json": {
+   "sha256": "12d28b85d12a805774649a936e79dd98f1403139e71eb3a1569e3a32ef378146",
+   "size": 15179
+  },
+  "ISA.41.caf": {
+   "sha256": "2ed9a04178c056e0f91b9ad5338eb215e0a6e1f70629d1288402fbda60253dad",
+   "size": 1098501
+  },
+  "ISA.42.json": {
+   "sha256": "81cb1b3f37291877538bd5badea636974d90f0fc17d7d6f91c50c5abe3b14715",
+   "size": 12822
+  },
+  "ISA.42.caf": {
+   "sha256": "58e6623590696dce6159e8ee57dc78b691effa42a2d70dfee598cdd2971cadc1",
+   "size": 933890
+  },
+  "ISA.43.json": {
+   "sha256": "67350ae11ab19a0db7407c5a69fbef046eb5342ad9403ce09118ee95a185c332",
+   "size": 13335
+  },
+  "ISA.43.caf": {
+   "sha256": "762e5057c0fc4c48b22c86bad294f3624ed8429c6c58a2eda4fe3bf3e2f87508",
+   "size": 957927
+  },
+  "ISA.44.json": {
+   "sha256": "bdd068c8c5911d81e1ea41ea883d0472ba37a76d1ac52288e560161a5a74e641",
+   "size": 16885
+  },
+  "ISA.44.caf": {
+   "sha256": "1d9c967808c2927c410d8304b5cab5feabaa1fba755faac28cb4782a94cde747",
+   "size": 1283866
+  },
+  "ISA.45.json": {
+   "sha256": "0eacd95640e0a91b07942c693ae9eb614a5cf6e35c176da126e773998253a99a",
+   "size": 14409
+  },
+  "ISA.45.caf": {
+   "sha256": "191c7f2e86c3acac520871a632bd91210788f6c8cecb2318739fb9fa56e09adc",
+   "size": 1068071
+  },
+  "ISA.46.json": {
+   "sha256": "9e13fcc91d602cd3c940524ad6e73d60b5c1be2f95b80b69cd66dfef00f94d22",
+   "size": 6438
+  },
+  "ISA.46.caf": {
+   "sha256": "a13a6dc35d6114bf0204bde976cb4a4643c62584358e7da6a9800905a2da20e4",
+   "size": 457652
+  },
+  "ISA.47.json": {
+   "sha256": "24efcb6222c2d4bade01b055cc08a8cef1ecc8548633ef111c8fe469d27d19b3",
+   "size": 8362
+  },
+  "ISA.47.caf": {
+   "sha256": "03436bc627855ac62180acca3487c3d59c19549f5649dea545dc4a6b4d8d639c",
+   "size": 633303
+  },
+  "ISA.48.json": {
+   "sha256": "83b7090e04aa8373a014e613ecf4f7180e0ea828e8fa6ec88575721d06421b55",
+   "size": 11422
+  },
+  "ISA.48.caf": {
+   "sha256": "ee2f0587a6a59e96e3d24d9c9ee99a610b4ac8affa292ba7ada9c4723ce19cd9",
+   "size": 818994
+  },
+  "ISA.49.json": {
+   "sha256": "656f43ec53ff1a111ea29f52d31b7cad47492e80947c000c2933054b221b9a44",
+   "size": 15866
+  },
+  "ISA.49.caf": {
+   "sha256": "f9c14e16506c978556c9acd625676fc6ccc20cca8d76d8f280199ee5b7a26273",
+   "size": 1132184
+  },
+  "ISA.50.json": {
+   "sha256": "bf3d1c1fce01dcd0e77b6fe487d562fac373705fc324794abe6a01f5bec68e11",
+   "size": 7006
+  },
+  "ISA.50.caf": {
+   "sha256": "666cd2473608c93e1cd1032c10e76c11f8d536f6d7ddb6bef7d3d7a3e55b5423",
+   "size": 480940
+  },
+  "ISA.51.json": {
+   "sha256": "d20c8258225f255239d01fe6af453151a5267958616a1f0ad0183dfdeec7e7d0",
+   "size": 14049
+  },
+  "ISA.51.caf": {
+   "sha256": "20270ef94031c0ec3a23fa9832c78e6f13b36259d91ad918e722e7b2b8835c5a",
+   "size": 1050389
+  },
+  "ISA.52.json": {
+   "sha256": "7275e46dff54436bd1ff5a2a7dd58eafbf640b41cee80ca0ed65b063426dec28",
+   "size": 8164
+  },
+  "ISA.52.caf": {
+   "sha256": "8c71be0bb969a1e8600f2129cc7ea9ff4f7579339d8f81f8ec2875878c5e2e3a",
+   "size": 636334
+  },
+  "ISA.53.json": {
+   "sha256": "81c27d40076490eafae6bbac0879bdc206745d1ccd6759684abf81228ceb2ce6",
+   "size": 7245
+  },
+  "ISA.53.caf": {
+   "sha256": "2478768ea6e08e27a70a55241c4846ca454e9840443d2510cba56f7d7c2ab597",
+   "size": 568062
+  },
+  "ISA.54.json": {
+   "sha256": "8adab9ad408e888dfafb833472b5f463ffc4d89018641869140682c2f918648e",
+   "size": 9559
+  },
+  "ISA.54.caf": {
+   "sha256": "49af632fdc2297d4e443d2a0942d7ab6bc3914611cbe2f9da2b7f24b879fca0d",
+   "size": 686741
+  },
+  "ISA.55.json": {
+   "sha256": "06ba0ea1c077cd1784f80d0f3c4000879dabdfed141f58e94c2c4c586e6b5144",
+   "size": 7356
+  },
+  "ISA.55.caf": {
+   "sha256": "e0cfcbdcacf73ae46882cf3c76193854db875b0015a7ead66cb202b930c7ee26",
+   "size": 536352
+  },
+  "ISA.56.json": {
+   "sha256": "78561e05b50d09455537366385f25d5d8869e43654dbec5e0a4ff420693d5581",
+   "size": 6614
+  },
+  "ISA.56.caf": {
+   "sha256": "0eb006986a7875168ce98a3fc5be1c8ff464cc59fed777a4bfb6e91087ff26ad",
+   "size": 492705
+  },
+  "ISA.57.json": {
+   "sha256": "da6b257425a6728b9c38234997b9f44c3eb52072c8ced03d486d95525cd79a03",
+   "size": 11123
+  },
+  "ISA.57.caf": {
+   "sha256": "dc897c8bfb706dd324078bbd442b505a38ea4f99633d7eae85fb001491b03215",
+   "size": 796926
+  },
+  "ISA.58.json": {
+   "sha256": "3149a7513d31add12879fca0b58a396349abc30d315f5db7a1ededce7b1706fb",
+   "size": 9528
+  },
+  "ISA.58.caf": {
+   "sha256": "0dfed9b5741876416183e94326ab8848bcac2aa801867dbcdf0fe8043b2d320a",
+   "size": 693046
+  },
+  "ISA.59.json": {
+   "sha256": "5fda67e98307d01915145eaa8c5069ce2ef77618da006acf3151b0c1158433e1",
+   "size": 12193
+  },
+  "ISA.59.caf": {
+   "sha256": "4580974600648b9df38cf38e6472b2051bbdca1ecf1149f89fe014eddaa20a9d",
+   "size": 942863
+  },
+  "ISA.60.json": {
+   "sha256": "fbe5d7497584e0f602c8235db3d57d3449bcccea593f936b6e3597117cbabeef",
+   "size": 12661
+  },
+  "ISA.60.caf": {
+   "sha256": "3b02f8ec4e178f8294314d01996f6b9b4851c68c93d1054c39ede1753dffab6c",
+   "size": 927878
+  },
+  "ISA.61.json": {
+   "sha256": "959e35fefd98a74e71f22600b389bbc9685ee92e7f0beb2f100c8d693f7f3159",
+   "size": 7103
+  },
+  "ISA.61.caf": {
+   "sha256": "946b2e9def3c17e094a64f4bf3d84805083624beea391b804bc11be76572c2af",
+   "size": 582609
+  },
+  "ISA.62.json": {
+   "sha256": "24b80db65c25f7fda9a9b40f0d9b03acff28fa3c73ae9bc28a333ba0cfb9ca09",
+   "size": 6781
+  },
+  "ISA.62.caf": {
+   "sha256": "00e1e6b32fa17a000aeb68b8325dd2355cc92b6581cd0df188a503ad2c157650",
+   "size": 490949
+  },
+  "ISA.63.json": {
+   "sha256": "15d2faa1756cc918306e2ed1265fd37ccb1d80fb5a919d107dd8e8aa2745077f",
+   "size": 10962
+  },
+  "ISA.63.caf": {
+   "sha256": "ebf6d40a7b7cdb8c93b48860839c08059a0f93d0a0fc98732246c97bc4e8c052",
+   "size": 779993
+  },
+  "ISA.64.json": {
+   "sha256": "8aa70fe816ff68ecb18b1731fd0b020b7d21a0f5fdd0c1caf168f7a51cfc0ddb",
+   "size": 6110
+  },
+  "ISA.64.caf": {
+   "sha256": "efcd259b30a7cfa84eb30244fa7df9c55a03d4f6ae5f4d953fb2f2afe087e835",
+   "size": 490859
+  },
+  "ISA.65.json": {
+   "sha256": "0cdaf7c9090a4d3f32300a6b653bf2a5a18e33aff6f04adcb9f638ae3d8eab2d",
+   "size": 14978
+  },
+  "ISA.65.caf": {
+   "sha256": "52e9a46761b9f07893baf21513a53484e474d98323197825381b39a663f63426",
+   "size": 1038951
+  },
+  "ISA.66.json": {
+   "sha256": "3935343b906e8c4717aed2f3610fb04aa6b3f015528a8e1d618a6945e301dc3d",
+   "size": 15328
+  },
+  "ISA.66.caf": {
+   "sha256": "ae868d4abf6378a986c2b5ffcb2ad5b1b9143d094c96846b7fe5094f1893660b",
+   "size": 1149865
+  }
+ }
+}

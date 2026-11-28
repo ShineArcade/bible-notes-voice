@@ -2,12 +2,12 @@
  "id": "leida-es-RV1909-2026-RUT-v1",
  "files": {
   "RUT.1.json": {
-   "sha256": "be9386a3d8bf17648203f81d949e64518419e2d588d963d52144742e3cec03a5",
+   "sha256": "6fcdf1e1821b661435bd6b593ae657183a9b54d8147389cf23686527a9657643",
    "size": 12560
   },
   "RUT.1.caf": {
-   "sha256": "23effdfe5df6bf5dc05588ba874494df47ef4ed18946e5f1249febcdcd57fa92",
-   "size": 857275
+   "sha256": "62dbfc0d9301ae1fb8887f113eaa57af5fef9202556ca577bbf70ac212731ca0",
+   "size": 858688
   },
   "RUT.2.json": {
    "sha256": "4f0ab8026b596a178be52f112aa46c0ad630043f5ec0aa1e33e24c2132ff13f0",

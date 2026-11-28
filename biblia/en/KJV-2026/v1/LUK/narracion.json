@@ -2,12 +2,12 @@
  "id": "leida-en-KJV-2026-LUK-v1",
  "files": {
   "LUK.1.json": {
-   "sha256": "7a03103b0ab5d41d265efb01dbeb272b095a88e917fd72b0b06b6233f9cf1e56",
+   "sha256": "7db80750e0ac365f4b180b26eff05dac974a5400d012f10b69d8661bc429d1dd",
    "size": 35717
   },
   "LUK.1.caf": {
-   "sha256": "230c4c3969cf9427ae0b5a44e9f5f96283e6cb3f7ec225d94d745e92ddc63512",
-   "size": 1934392
+   "sha256": "01a135b55b4a8dd36cd93e8c24843b6785417435ee7204a379b79971bbf480f5",
+   "size": 1939632
   },
   "LUK.2.json": {
    "sha256": "9956a46bc839a5342f10dc517c7dc4152d4191d655c206ae16b0ae0b32b423db",
@@ -18,12 +18,12 @@
    "size": 1360215
   },
   "LUK.3.json": {
-   "sha256": "5728ae96aecfe8f8957373d5edae5b0f650d43f4c01fbe95140d2675fbf0529a",
-   "size": 21968
+   "sha256": "3dd82521b81b195768d12c2d61cf57ac21f500bf24056b7fe5b1201379c4cfba",
+   "size": 21967
   },
   "LUK.3.caf": {
-   "sha256": "206da24436b980f15f1a597662116b97b348fc309696ed5b2a5baabceed8969e",
-   "size": 1269644
+   "sha256": "a1541faeab85e4fcf72d0821a509e696fad2f5e061655a3b395744ee3f66c53d",
+   "size": 1269543
   },
   "LUK.4.json": {
    "sha256": "10c18a67cf68dc1c41a4a285f80b6aec57f9427eb2aac09a0f67ef38328184bd",
@@ -50,28 +50,28 @@
    "size": 1490010
   },
   "LUK.7.json": {
-   "sha256": "8032ae8c5f86c463959d5a394687fb62fe2c79bdb877b9ed80e7dbecb3d89b73",
+   "sha256": "36e0eeb450923a48736c48337a1c9ed874e6b6a4f55a1224c1351c0de0519b6e",
    "size": 26567
   },
   "LUK.7.caf": {
-   "sha256": "620cf0c57157afd4c184095bee8a87ad96476fc0adcfea559479a9065c50551e",
-   "size": 1484941
+   "sha256": "f6e57b721128325e673cd1152fd263298dec558014a0d63ea086042bcbf998ad",
+   "size": 1484423
   },
   "LUK.8.json": {
-   "sha256": "8b0dd39f3dbbc0c0dc1ba72e8b6fbfe275bdeb76f171d70232429b769aac6126",
+   "sha256": "dd57ff9504814e15dddcac5d3532c007bc79b7c73fa633560995c30cd4ed7d70",
    "size": 31360
   },
   "LUK.8.caf": {
-   "sha256": "f379adaa3e22ee219c6f299f85702df55b09f095bd053af67ff13da790febc16",
-   "size": 1766839
+   "sha256": "3c985015539172df3fa4af2f6506c417ef10c1b2fbe37c2a610b699219a09f77",
+   "size": 1768956
   },
   "LUK.9.json": {
-   "sha256": "facb52ed2af053a2c2bf21d6d5d49b731710fcbb86cba4127d26189be7ea9567",
-   "size": 32065
+   "sha256": "c186ece4a716e9fbf5c0bf5b4380e7c2990b32b89627e669273edc0de1419551",
+   "size": 32068
   },
   "LUK.9.caf": {
-   "sha256": "fb9ce3a8d0ac3c3555f00811c1bc1730543f3cb63aa5240639ba10694590e550",
-   "size": 1789189
+   "sha256": "8dff2a2ba0d50942addaccb7e0c33c20b9588d670b95478dcc9f33bd0a5d5f83",
+   "size": 1794319
   },
   "LUK.10.json": {
    "sha256": "76f98fc5ec04dba50d8e5426cff7bb51deb7cd36500fd9160ea3a41d50ce20cd",
@@ -98,20 +98,20 @@
    "size": 1658914
   },
   "LUK.13.json": {
-   "sha256": "499c92dbd05dd3746b53fe6ca51e25542021171bcf00625277ae3639a4b05e84",
+   "sha256": "a05efe2f0d2e7c7b911b69ec9efec57430cd813ff17393d4a618b0a7b91f7fc4",
    "size": 18948
   },
   "LUK.13.caf": {
-   "sha256": "d10cfd0429022cf16222acf9e573789fb767206f8300eb28c6ef1d11f827c258",
-   "size": 1072119
+   "sha256": "8bf5d36370d3bb730919ce54073cfd5a2597d3e4e8b9d78b5690774961bdceef",
+   "size": 1071704
   },
   "LUK.14.json": {
-   "sha256": "fe664f3ad640b5571bca245ddc86d3df0a9a256631f8291ca923f444d02ae892",
-   "size": 17662
+   "sha256": "44a4ffc6325444b3148fcac73774f568509cb92aa31837dc1d9c51fcff9c8d72",
+   "size": 17661
   },
   "LUK.14.caf": {
-   "sha256": "d34557d0fb48e26e4da2b3d91f59ec28c356eee72a715ed6f466e5a4429853e4",
-   "size": 969288
+   "sha256": "6fc8a6e6da0d7f7d2c18530fbdb36dc52597101e92dfdc669801ce545e74833c",
+   "size": 969799
   },
   "LUK.15.json": {
    "sha256": "65277224d163cb4b3692cf7cc52382d614c8f6e5d321c49defdf5be805df219d",
@@ -138,28 +138,28 @@
    "size": 961381
   },
   "LUK.18.json": {
-   "sha256": "602998e567762132614e10e632ed3a4bcb965296c13e11c7ed6c394c4eba0a4e",
+   "sha256": "2a55274c7653bebbe017c46010fcb8526f729448048a7da41cd5928578cee35c",
    "size": 19461
   },
   "LUK.18.caf": {
-   "sha256": "acd04c3a7b5f7748f661789e748bb25e04c44f56356526ee29361acab7a3cf12",
-   "size": 1111000
+   "sha256": "0d7611a18144d201161c0d340991908effeebbd34ec17011b0dff1444d179731",
+   "size": 1113948
   },
   "LUK.19.json": {
-   "sha256": "74a109c23a3f882d1ce3c695e9dc1c062b27ed0eacaf9c056a10327393dc588b",
-   "size": 23068
+   "sha256": "b08b13494ea1e47b99bae7e2df555ab44b44093bf7e551b75f49023f1e1136b9",
+   "size": 23074
   },
   "LUK.19.caf": {
-   "sha256": "b664099b2ff83f21179a71ac5bbca19b10acc8f92c702b707e15b8d2855c496b",
-   "size": 1246910
+   "sha256": "febba9cd345e65c743cb6fc9bd17ef2d82da67c14d9014d7961bd0e28bf00643",
+   "size": 1260958
   },
   "LUK.20.json": {
-   "sha256": "1e7b18d4335d15543aad7b92569e14397ea7d199f03cf7da05212cd4755fc1e6",
+   "sha256": "d7bf1fa73a21ac3b303bf7a00354a1bb00946f1fe10471024cca1008452a1f4a",
    "size": 21465
   },
   "LUK.20.caf": {
-   "sha256": "8163610b4bb9ad3833179d1dd7f93564a7525db8a1065362c564a4bf2a5aae2a",
-   "size": 1171281
+   "sha256": "5394b3319ec6c4fe2bd2ee3b7e40d826d6c48b3c75264518603b8c2a31d72279",
+   "size": 1174675
   },
   "LUK.21.json": {
    "sha256": "c7f9ca570bc9541a1ae81198a5cfe29ce019de6a4a5e3c5d025808201bb18f31",
@@ -170,12 +170,12 @@
    "size": 988731
   },
   "LUK.22.json": {
-   "sha256": "060cda8000881b04e7f73cf9325db320c28a042dc7d29ce5704e029bb8c96063",
+   "sha256": "450b6a030345859b9e4709a11ace7fe584a2c92a361299651d197c91e5f62da7",
    "size": 31421
   },
   "LUK.22.caf": {
-   "sha256": "11f981496758e556c63f5e7a220a23051974bd8995538f9c66004add4552a19a",
-   "size": 1756234
+   "sha256": "091ebb982c529a44cabd87a6bf186fc9212f7a1633cfcee7199670cccf91f5dc",
+   "size": 1757347
   },
   "LUK.23.json": {
    "sha256": "585de0f2fbf34cec7a8c126d8d7c2e25cabb82988c9b0fed0bc9ca4b64aae5a4",

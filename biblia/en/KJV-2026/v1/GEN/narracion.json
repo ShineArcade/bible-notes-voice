@@ -2,12 +2,12 @@
  "id": "leida-en-KJV-2026-GEN-v1",
  "files": {
   "GEN.1.json": {
-   "sha256": "f3243b9861fd9da451040c8bc7d0b2792b0ce723ded04d40bff3fe1c15fb5058",
+   "sha256": "203bdf34a72ba6c8c4b1689be214e8185d74869b85507d96a335bff3d82157ad",
    "size": 17291
   },
   "GEN.1.caf": {
-   "sha256": "ecb1a275c439bd5ab97a7855e7c6fbb9b7c8ac579a052931e9d7de1f35756750",
-   "size": 1000551
+   "sha256": "315e489e6cd6c74e0c3afbb2592ffef7a40cdae78a92cd3d5e189af6650cb284",
+   "size": 1001764
   },
   "GEN.2.json": {
    "sha256": "c16bb6c96238b087d34a0fecb6719550ee62ef5a1e7959a5bfbba7a5cd44a91f",
@@ -178,12 +178,12 @@
    "size": 814931
   },
   "GEN.23.json": {
-   "sha256": "a849830ce222ed1a4cbcf7561d7791d7587cf5a3e16968d9c8eddcc0d9f270d7",
+   "sha256": "7037e0acca9233aee7b5cf5a8b4bb98a1e91f8413af19117b74003b27c329b90",
    "size": 11454
   },
   "GEN.23.caf": {
-   "sha256": "0bb029ebe3bcac3f66217c24f6e9e3ba4989199ea833a63ac16f0cc251a79488",
-   "size": 619105
+   "sha256": "5ecc1aff48caacd60729aa474c8fe06680eb8ff0570e60ab6273af1dd389a66c",
+   "size": 617473
   },
   "GEN.24.json": {
    "sha256": "9aae820cb474882b06f9c41e6bc59a55a68a998dd0443ca851962d7c70c78c9d",
@@ -194,12 +194,12 @@
    "size": 2094843
   },
   "GEN.25.json": {
-   "sha256": "f503c554964e41136a65a7b9a125fd6d9fb2f8e3d4a83fbe7030f41f51b851a9",
-   "size": 15817
+   "sha256": "f1c9dae807ec66b97e6940f4e3b2abdb6277179eb9bd7487b85d050f79db4b59",
+   "size": 15818
   },
   "GEN.25.caf": {
-   "sha256": "0655b1c60cb6ae2c06470422190bcd4f62fc29403d735ba8a3923e85f4e36d01",
-   "size": 978595
+   "sha256": "4fb8768f3b0e30fc3aa1eb7adb63cf5f40e55b74ae81fb3f056eac9274ba1612",
+   "size": 981506
   },
   "GEN.26.json": {
    "sha256": "02ac7aea0c9019dd2f4be6c9c9f2e434bbc225a1f59d15c4b78002728f645b4f",
@@ -210,12 +210,12 @@
    "size": 1096866
   },
   "GEN.27.json": {
-   "sha256": "73383c850d1c4ebd7887a43d15c8036bc855cf767c2bc62be898bbe3baa4eb33",
+   "sha256": "c576fd0ed1e8087974419e287cb2b3d8a8709d1187d317cd223c16e075d8a971",
    "size": 26969
   },
   "GEN.27.caf": {
-   "sha256": "1b59bf5c25b52903a881940de564ad86598bfb8f4d1fbdf5a2297cbbc3e95566",
-   "size": 1548338
+   "sha256": "457190af1af4f4892583060a47dea73f2d2a724182759449ecfcee8f98601f66",
+   "size": 1546101
   },
   "GEN.28.json": {
    "sha256": "e75a3d685cc6f88aa273daa0e6f882dfdc34316ff596424751e32644915089ba",
@@ -234,12 +234,12 @@
    "size": 1021732
   },
   "GEN.30.json": {
-   "sha256": "9bd439a6129ddf8cab51e2d801516ccc7c41ac16246107e05ae350dd934703eb",
-   "size": 22412
+   "sha256": "ea46367d69a143c24513d62e28fa70ac2943e0b976be42937ad1faad4a43abe8",
+   "size": 22421
   },
   "GEN.30.caf": {
-   "sha256": "011518437ec944ee62abfd5be7ab7ac007c4e8e7b24cf48e6715e16a3aa722d4",
-   "size": 1291118
+   "sha256": "02fc952c869f9702f7397cfd14c2b7416600ce5dc2934d04b0f19f424e706837",
+   "size": 1307703
   },
   "GEN.31.json": {
    "sha256": "98c27892990884f8ecae9673a12825f9c43da8dd374319084b0760f454d4ed07",
@@ -250,12 +250,12 @@
    "size": 1681577
   },
   "GEN.32.json": {
-   "sha256": "1e7b391e70c2134a662f0dede7aca4c8d5e91be3f46129e332d6f90eb32e7794",
+   "sha256": "d4f399e5b6dcda9cd1428fa1e028e51b4c052c251df49a17918eb10f2850bd16",
    "size": 17177
   },
   "GEN.32.caf": {
-   "sha256": "9fac35499d5b75f7a9b2fabe3f54f1d706b3d9917be2d7b299b8984caa6d46ee",
-   "size": 973680
+   "sha256": "600859f2989194a8a17dcc3ed2006dd262fb475f7cfd7910d9c0081263d6d06c",
+   "size": 977498
   },
   "GEN.33.json": {
    "sha256": "cffc135bb0df85892cca7e0ba80422fc92bc64599cc0e872ac7a2fc0f8235289",
@@ -290,12 +290,12 @@
    "size": 1227443
   },
   "GEN.37.json": {
-   "sha256": "064e8bd2fc786ef3eff5dbf0b1b8e13a4e4d07b2bd2b19ed94492afbf722d5c8",
+   "sha256": "7dc90435ec56910f74070bf5f035c86cadf97e804d372a6941f484b3df1ccabd",
    "size": 20400
   },
   "GEN.37.caf": {
-   "sha256": "8cf10d4bff82f15e89c18b662f2779eee949295722992fada56877c536420862",
-   "size": 1157352
+   "sha256": "c0a0272403ac76ffb3901b291106d3d60a38465e9b1ee016c06993be27f4cd81",
+   "size": 1161407
   },
   "GEN.38.json": {
    "sha256": "ebda8df90334bf98d2f628b545c7eb5bc2a2f35e9e883321d8e9593cce006a68",
@@ -378,12 +378,12 @@
    "size": 1161968
   },
   "GEN.48.json": {
-   "sha256": "25fcb15f230f1d95fe87f8e259e6541aed32222ee121384727b334c2ec8d8c65",
+   "sha256": "bd4903bfa37146cb7172da61f690d2c7035418596e7982ceb9077b11993c2c19",
    "size": 13623
   },
   "GEN.48.caf": {
-   "sha256": "c9372f87ba520455dca75455922d256853da1e00206ad9c977f6bd2a4ed4764c",
-   "size": 780957
+   "sha256": "568fa061fec2ddb677bf5b4326fbcf509b0d24209fa268e4669ecec630393227",
+   "size": 782742
   },
   "GEN.49.json": {
    "sha256": "8e2c130388c4c03654f826fd97b418241ee5e5d1dbed1b942a56ce291dccab10",
